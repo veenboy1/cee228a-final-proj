@@ -1,0 +1,22 @@
+# Build outputs
+main
+*.o
+*.out
+
+# Results data
+*.csv
+
+# Jupyter notebooks
+*.ipynb
+.ipynb_checkpoints/
+
+# macOS
+.DS_Store
+
+# VS Code
+.vscode/
+
+# Python virtual environment
+.venv/
+__pycache__/
+*.pyc
